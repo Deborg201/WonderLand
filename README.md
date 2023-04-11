@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # WonderLand
 A site for providing reliable information on sources of entertainment
 =======
@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 0b9061a39ce508f394777888d13b62294508e885
+
