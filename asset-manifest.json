@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WonderLand/static/css/main.d6de5119.css",
+    "main.js": "/WonderLand/static/js/main.109181d7.js",
+    "static/media/1.jpg": "/WonderLand/static/media/1.4f8b80dad490c396a498.jpg",
+    "index.html": "/WonderLand/index.html",
+    "static/media/search.svg": "/WonderLand/static/media/search.8ff5426bc87a3f731164f42e41b7144b.svg",
+    "main.d6de5119.css.map": "/WonderLand/static/css/main.d6de5119.css.map",
+    "main.109181d7.js.map": "/WonderLand/static/js/main.109181d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6de5119.css",
+    "static/js/main.109181d7.js"
+  ]
+}
