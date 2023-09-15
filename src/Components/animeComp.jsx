@@ -30,7 +30,7 @@ const AnimeComp = () => {
     }
 return (
     
-      <div>
+      <div className="searchContainer">
         <div className="search">
           <input
             value={searchTerm}
