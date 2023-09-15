@@ -81,7 +81,7 @@ const App = () => {
       {bookSwitch  ? (<BookComp />) : (<></>)}
       {gameSwitch  ? (<GameComp />) : (<></>)}
       {songSwitch  ? (<SongComp />) : (<></>)}
-      <div className="bgimage"><img src={require("./Images/1.jpg")}></img></div>
+      {/* <div className="bgimage"><img src={require("./Images/1.jpg")}></img></div> */}
       
     </div>
   );

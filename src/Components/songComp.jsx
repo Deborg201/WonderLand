@@ -31,7 +31,7 @@ export default function SongComp() {
 
  return (
     
-      <div>
+      <div className="searchContainer">
         <div className="search">
           <input
             value={searchTerm}
